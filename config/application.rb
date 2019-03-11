@@ -17,3 +17,6 @@ module Testmail
     # the framework and any gems in your application.
   end
 end
+
+config.action_mailer.delivery_method = :postmark
+config.action_mailer.postmark_settings = { :api_token => "7ebe707d-742e-4dfb-8ae7-c8ed41134382" }
