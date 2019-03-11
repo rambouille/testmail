@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # testmail
+
+phrase de test à effacer
